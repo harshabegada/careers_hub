@@ -1,3 +1,3 @@
 # careers_hub
-##thops tech
-###python batch 7
+## thops tech
+### python batch 7
